@@ -1,3 +1,0 @@
-This is a file , it has data inside it.
-This data is just text.
-This is just a placeholder.
